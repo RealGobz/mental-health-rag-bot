@@ -15,4 +15,4 @@ Unlike traditional chatbots that use simple keyword matching, this assistant und
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/mental-health-rag-bot.git](https://github.com/YOUR_USERNAME/mental-health-rag-bot.git)
+   git clone [https://github.com/RealGobz/mental-health-rag-bot.git](https://github.com/YOUR_USERNAME/mental-health-rag-bot.git)
